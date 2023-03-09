@@ -1,0 +1,5 @@
+Clone da Interface do YouTube
+Adicionei um Vídeo onde é possível dar o play
+A barra de pesquisa realmente funciona, ou seja, basta fazer uma busca que ele ira te redirecionar para o site do YouTube 
+Não foi realizado a responsividade do site, pois o intuito era somente a pratica dos conceitos CSS e Flex-box
+(Pode apresentar uma diferença no posicionamento do botão pesquisar. Se alguem souber como melhorar isso ficarei grato)
